@@ -1,0 +1,18 @@
+.header {
+  position: fixed;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  height: 59px;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 60px;
+}
+
+.header_logo {
+  margin: 13px 20px;
+  width: 209px;
+  height: 33px;
+  background-image: url('./assets/logo.svg');
+  background-repeat: no-repeat;
+}
